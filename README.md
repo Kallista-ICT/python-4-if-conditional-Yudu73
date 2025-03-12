@@ -1,4 +1,4 @@
-The assignment link is https://bit.ly/python4task
+The assignment link is 
 
 Steps to Submit:
 To submit your work, use the following commands in order:
